@@ -5,7 +5,7 @@ The idea to draw regular shapes: `start with a point and rotate it around the or
 
 - **Pentagon:** start with the top point and rotate it **72°** to get the other 4 points
 
-- **Hexagon:** start with the right point and rotate it **60°** to get the other 5 points **and so on...**
+- **Hexagon:** start with the right point and rotate it **60°** to get the other 5 points   **and so on...**
 
 ### Rotation of a Point
 ![alt text](https://keisan.casio.com/keisan/lib/real/system/2006/1496886458/RotatePoints.png "Grid")
