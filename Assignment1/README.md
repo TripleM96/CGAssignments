@@ -1,7 +1,7 @@
 # Drawing regular shapes
 ### using **C++** with **OpenGL**
 
-The idea to draw regular shapes: `start with a point and rotate it around the origin`
+The idea to draw regular shapes: **_start with a point and rotate it around the origin_**
 
 - **Pentagon:** start with the top point and rotate it **72°** to get the other 4 points
 
