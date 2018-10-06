@@ -12,4 +12,4 @@ and so on...
 # Rotation of a Point
 ![alt text](https://keisan.casio.com/keisan/lib/real/system/2006/1496886458/RotatePoints.png "Grid")
 
-![alt text](https://keisan.casio.com/has10/mimetex.cgi?\normal%20Rotation\%20of\%20points\hspace{20}\theta:\qquad%20(x,y)\rightarrow%20(x%27,y%27)\\vspace{20}%3Cbr%20/%3E\hspace{20}x%27=xcos(\theta)-ysin(\theta)\\\vspace{20}%3Cbr%20/%3E\hspace{20}y%27=xsin(\theta)+ycos(\theta)\\ "Equation")
+![alt text](https://keisan.casio.com/has10/mimetex.cgi?\normal%20Rotation\%20of\%20points\hspace{20}\theta:\qquad%20(x,y)\rightarrow%20(x%27,y%27)\\\%3Cbr%20/%3E\hspace{20}x%27=xcos(\theta)-ysin(\theta)\\\vspace{20}%3Cbr%20/%3E\hspace{20}y%27=xsin(\theta)+ycos(\theta)\\ "Equation")
